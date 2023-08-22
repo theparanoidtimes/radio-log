@@ -1,5 +1,7 @@
 # The Paranoid Times amateur radio logs
 
+[![builds.sr.ht status](https://builds.sr.ht/~tpt.svg)](https://builds.sr.ht/~tpt?)
+
 A log of all my radio amateur endeavours.
 
 ## Usage
