@@ -6,7 +6,7 @@ environment:
   site: radio.theparanoidtimes.org
 tasks:
   - package: |
-      cd src
-      tar -cvz . > ../site.tar.gz
+      cd radio-log/src
+      tar -cvz . > ../../site.tar.gz
   - upload: |
       hut pages publish -d $site site.tar.gz
