@@ -19,8 +19,7 @@ The content of this site is licensed under a
 
 ## License
 
-The Paranoid Times amateur radio logs
-Copyright 2021-2023 Dejan Josifović, The Paranoid Times
+Copyright (C) 2021-2023. Dejan Josifović, The Paranoid Times
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
