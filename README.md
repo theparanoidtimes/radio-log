@@ -1,14 +1,13 @@
 # The Paranoid Times amateur radio logs
 
-[![builds.sr.ht status](https://builds.sr.ht/~tpt.svg)](https://builds.sr.ht/~tpt?)
-
-A log of all my radio amateur endeavours.
+A log of all my radio amateur endeavors.
 
 ## Usage
 
-The radio log is a bare HTML and CSS site. Open [index.html](/src/index.html) in a browser.
+The radio log is a bare HTML and CSS site.
+Open [index.html](/src/index.html) in a browser.
 
-## Content licence
+## Content license
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
