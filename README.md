@@ -5,7 +5,7 @@ A log of all my radio amateur endeavors.
 ## Usage
 
 The radio log is a bare HTML and CSS site.
-Open [index.html](/src/index.html) in a browser.
+Open [index.html](/docs/index.html) in a browser.
 
 ## Content license
 
